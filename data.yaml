@@ -1,0 +1,10 @@
+ # dataset path
+train: datasets/train/images
+val: datasets/valid/images
+test: datasets/test/images
+# number of classes
+nc: 9
+ 
+# class names
+names: ['xiaoxin','fengjian','nini','zhengnan','adai','xiaobai','meiya','guangzhi','xiaokui']
+ 
